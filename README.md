@@ -1,4 +1,4 @@
 ghalib
 ======
 
-Diwan e Ghalib (A Desertful of Roses by Francis W. Pritchett)
+Diwan e Ghalib (Based on A Desertful of Roses by Francis W. Pritchett)
